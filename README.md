@@ -14,7 +14,7 @@ For example:
 
 -Document Search: Instead of manually looking through PDFs, schedules, notices, and emails, the platform allows fast intelligent search across all university documents.
 
-+ How this work!
+
 
 + <img width="828" height="388" alt="image" src="https://github.com/user-attachments/assets/e0670604-8ec6-4d17-8835-dcccb3001825" />
 
@@ -29,8 +29,75 @@ In short, RAG + multi-agent systems provide a strong foundation for building a s
 
 +how we can run this project?
 
+🚀 How to Run UNI-AI Locally
+
+Follow these steps to set up and run the project on your computer.
+
+1. Create a Virtual Environment (recommended)
+python -m venv venv
 
 
+Activate it:
+
+Windows
+
+venv\Scripts\activate
+
+
+Linux / macOS
+
+source venv/bin/activate
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Run the Application
+
+Navigate to the folder that contains your main app file:
+
+cd UNI-AI
+
+
+(or whichever directory has your main.py / app.py)
+
+Then start the application:
+
+python main.py
+
+4. Accessing UNI-AI on Your Computer
+
+After running it, the app will show something like:
+
+Running on http://127.0.0.1:8000
+
+
+Open your browser and enter the URL.
+
+📱 Accessing UNI-AI on Your Phone (Same Wi-Fi)
+
+You can also open the app from your phone while both devices are on the same Wi-Fi network.
+
+Step 1: Find your computer’s IP address
+
+On Windows:
+
+ipconfig
+
+
+Look for:
+
+IPv4 Address . . . . . : 192.168.x.x
+
+Step 2: Use that IP + Port on your phone
+
+Example:
+
+http://192.168.0.0:8000
+
+
+Replace the IP and port with your actual values.
+
+! for more information contact with me in LinkedIn: linkedin.com/in/ya7xa
 
 
 
