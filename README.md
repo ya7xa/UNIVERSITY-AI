@@ -96,6 +96,7 @@ http://192.168.0.0:8000
 
 
 Replace the IP and port with your actual values.
+Do not forgot to run ollama.
 
 ! for more information contact with me in LinkedIn: linkedin.com/in/ya7xa
 
