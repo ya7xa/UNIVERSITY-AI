@@ -1,5 +1,7 @@
 # University-AI
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 University-AI is a unified intelligent platform designed to support the entire university ecosystem. Instead of relying on multiple disconnected tools for students, staff, supervisors, and administration, this system brings everything together into one secure, locally hosted solution.
 
 Its purpose is to boost productivity, reduce delays, and provide fast, accurate access to academic and administrative information.
@@ -99,6 +101,12 @@ Replace the IP and port with your actual values.
 Do not forgot to run ollama.
 
 ! for more information contact with me in LinkedIn: linkedin.com/in/ya7xa
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details. (Copyright © 2025 Yahya)
 
 
 
