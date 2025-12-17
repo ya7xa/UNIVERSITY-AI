@@ -109,6 +109,3 @@ Do not forgot to run ollama.
 This project is licensed under the MIT License — see the `LICENSE` file for details. (Copyright © 2025 Yahya)
 
 
-
-# testing
-# testing
