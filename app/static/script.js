@@ -1,4 +1,4 @@
-// Modern ChatGPT-like UI Implementation
+
 
 // Sidebar Toggle
 const sidebarToggle = document.getElementById('sidebarToggle');
